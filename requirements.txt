@@ -1,0 +1,14 @@
+bleach==3.3.0
+certifi==2021.5.30
+chardet==4.0.0
+idna==2.10
+intelx==0.5
+packaging==21.0
+Pygments==2.9.0
+pyparsing==2.4.7
+requests==2.25.1
+six==1.16.0
+tabulate==0.8.9
+termcolor==1.1.0
+urllib3==1.26.6
+webencodings==0.5.1
